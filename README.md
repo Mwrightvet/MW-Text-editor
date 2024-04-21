@@ -34,6 +34,8 @@ As a developer, you want to create and access notes or code snippets with or wit
 ## Demo
 
 Refer to the provided animation and images demonstrating the application's functionality, including the installation process, manifest file, registered service worker, and IndexedDB storage.
+![image](https://github.com/Mwrightvet/MW-Text-editor/assets/50971489/413bddbc-b9aa-4989-a8a4-9547b0b41926)
+
 
 ## Conclusion
 
